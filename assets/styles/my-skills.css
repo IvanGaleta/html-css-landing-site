@@ -1,0 +1,31 @@
+.my-skills-article {
+    padding-top:20%;
+}
+.heading-my-skills{
+    margin-bottom: 40px;
+}
+.text{
+    padding-top: 10px;
+}
+.man{
+    width: 555px;
+    height: 450px;
+    
+}
+.line{
+    padding-top: 10px;
+}
+.line::after{
+    content: "";
+    display: inline-block;
+    width: 96px;    
+    height: 4px;
+    background-color:gray;    
+}
+.line::before{
+    content: "";
+    display: inline-block;
+    width: 349px;
+    height: 4px;
+    background-color: rgb(90, 90, 138);
+}
