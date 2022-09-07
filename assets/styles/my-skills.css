@@ -1,7 +1,8 @@
-.my-skills-article {
-    padding-top:20%;
+.my-skills{
+    margin-bottom: 50px;
 }
 .heading-my-skills{
+    margin-top: 10%;
     margin-bottom: 40px;
 }
 .text{
@@ -11,6 +12,9 @@
     width: 555px;
     height: 450px;
     
+}
+.skills-line{
+    margin-bottom: 20px ;
 }
 .line{
     padding-top: 10px;
